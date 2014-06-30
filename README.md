@@ -1,0 +1,1 @@
+An angular directive for plotting timeseries data with Rickshaw.
